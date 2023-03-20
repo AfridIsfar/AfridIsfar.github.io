@@ -6,7 +6,6 @@
 
 
 - [**Build your website in 3 steps**](#build-your-website-in-3-steps)
-- [Plans](#plans)
 - [Add your own content](#add-your-own-content)
 - [Customizing parameters for each page](#customizing-parameters-for-each-page)
 - [Supported parameters](#supported-parameters)
@@ -55,10 +54,6 @@ Note that this was the easy way to *create* your website, but it does come at a 
 If you followed the easy method above, then you already have your site and you can skip this section!
 
 If you want to use Beautiful Jekyll as a ruby gem instead, follow the [advanced installation instructions](https://beautifuljekyll.com/getstarted/#install-steps-hard). This is harder to set up initially, but it makes it super easy to keep your site up to date with Beautiful Jekyll when more features are added in the future.
-
-# Plans
-
-Beautiful Jekyll is, and always will be, free. But if you want to remove the Beautiful Jekyll ad from your website, use a Dark Mode skin, unlock other special rewards, or simply support the development efforts, [check out the different plans](https://beautifuljekyll.com/plans).
 
 # Add your own content
 
