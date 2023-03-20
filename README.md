@@ -9,9 +9,6 @@
 - [Add your own content](#add-your-own-content)
 - [Customizing parameters for each page](#customizing-parameters-for-each-page)
 - [Supported parameters](#supported-parameters)
-- [Featured users (success stories!)](#featured-users-success-stories)
-- [FAQ and support](#faq-and-support)
-
 
 
 
@@ -158,17 +155,3 @@ ext-css      | List of external CSS files to include in the page. External CSS f
 - **home** - The home layout is meant to act as the homepage of your blog posts - it will display all your blog posts, sorted from newest to oldest. A file using the `home` layout must be named `index.html` (not `index.md` or anything else!).
 - **minimal** - If you want to create a page with minimal styling (ie. without the bulky navigation bar and footer), assign `layout: minimal` to the YAML front matter.
 - If you want to completely bypass the template engine and just write your own HTML page, simply omit the YAML front matter. Only do this if you know how to write HTML!
-
-# Featured users (success stories!)
-
-Visit the [Official website](http://beautifuljekyll.com/examples) to see sample websites using Beautiful Jekyll.
-
-If you'd like to showcase yourself and join this list, [upgrading to the Individual plan](https://github.com/sponsors/daattali/sponsorships?&tier_id=7362) will give you that publicity plus some other rewards!
-
-# FAQ and support
-
-Visit the [official FAQ page](https://beautifuljekyll.com/faq) for answers to commonly asked questions.
-
-Beautiful Jekyll is used by 50,000+ people with wildly varying degrees of web skills, so it's impossible to answer all the questions that may arise. For any question that's not specifically related to Beautiful Jekyll and is more about Jekyll or web development in general, the answer can often be found on Google, in the [Jekyll documentation](https://jekyllrb.com/), or on the [Jekyll support forum](https://talk.jekyllrb.com/).
-
-To receive support, select one of the [different plans](https://beautifuljekyll.com/plans) Beautiful Jekyll offers. You can also use the [Discussions](https://github.com/daattali/beautiful-jekyll/discussions) area to try to get help from the community.
