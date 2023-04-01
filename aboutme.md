@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: I'm **Real** and I'm a **Human**
+subtitle: I'm Real and I'm a Human
 ---
 
 My name is Afrid Md. Isfar. Somethings that describe me:
