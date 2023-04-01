@@ -1,16 +1,20 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: I'm **Real** and I'm a **Human**
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Afrid Md. Isfar. Somethings that describe me:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I suck at FPS shooters
+- Introvert
+- I use uBlock Origin
+- I love my Family
+- I prefer using Discord
+- Dont expect **ilets** level English from my site (yes I've written ilets)
 
 What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Honestly, I have no story. If I had one still I'm an introvert and you have to respect that
