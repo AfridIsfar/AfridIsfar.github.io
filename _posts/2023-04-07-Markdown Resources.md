@@ -2,7 +2,7 @@
 layout: post
 title: Markdown Resources
 subtitle: Some Markdown Resources I have collected to help myself further develope this site
-cover-img: https://afridisfar.github.io/resource1/2023-04-07-Markdown%20Resources/markdown-cover.png
+cover-img: https://afridisfar.github.io/resource1/2023-04-07-Markdown%20Resources/markdown-cover.jpg
 thumbnail-img: https://afridisfar.github.io/resource1/2023-04-07-Markdown%20Resources/mardown-thumbnail.png
 share-img: https://afridisfar.github.io/resource1/2023-04-07-Markdown%20Resources/markdown-cover.png
 ---
