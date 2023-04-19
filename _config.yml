@@ -22,7 +22,7 @@ author: Afrid Md. Isfar
 navbar-links:
   About Me: "aboutme"
   Extras:
-    - Test.fb: "https://www.facebook.com"
+    - Featured: "featured"
     - Learn Markdown: "https://www.markdowntutorial.com/"
 
 ################
