@@ -21,10 +21,9 @@ author: Afrid Md. Isfar
 
 navbar-links:
   About Me: "aboutme"
-  List:
+  Extras:
     - Test.fb: "https://www.facebook.com"
-    - Test.markdown: "https://www.markdowntutorial.com/"
-  Discord: "https://discord.com"
+    - Learn Markdown: "https://www.markdowntutorial.com/"
 
 ################
 # --- Logo --- #
