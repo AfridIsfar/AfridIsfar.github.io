@@ -20,9 +20,9 @@ author: Afrid Md. Isfar
 ###############################################
 
 navbar-links:
-  About Me: "aboutme.md"
+  About Me: "aboutme"
   Extras:
-    - Featured: "featured.md"
+    - Featured: "featured"
     - Learn Markdown: "https://www.markdowntutorial.com/"
 
 ################
